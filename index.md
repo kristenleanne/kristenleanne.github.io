@@ -2,7 +2,7 @@
 
 ---
 
-[Pans!](/sample_page)
+[Pans!](/Pans)
 <img src="images/pans.jpg?raw=true"/>
 
 ---
