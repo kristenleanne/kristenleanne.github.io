@@ -1,6 +1,6 @@
 ## Is Non-Stick the Best Option?
 
-**Project description:** Allow me to explain my Valentine’s Day present, a stainless steel pan! I grew up always using non-stick pans. So when we got married, it was an obvious choice to get non-stick Teflon pans, as they are easier to cook with and clean. However, upon further research I learned that Teflon may not be the best choice when attempting to minimize toxins.
+Allow me to explain my Valentine’s Day present, a stainless steel pan! I grew up always using non-stick pans. So when we got married, it was an obvious choice to get non-stick Teflon pans, as they are easier to cook with and clean. However, upon further research I learned that Teflon may not be the best choice when attempting to minimize toxins.
 
 PTFE (polytetrafluoroethylene), commonly called Teflon, is a synthetic chemical of carbon and fluorine atoms used to coat cookware. When heated to high temperatures, the chemicals in the Teflon pan can be released into the air and inhaled which can lead to "Teflon flu" with chills, fever, headache, etc. Some lung damage has been reported, as well. Even heating a pan for two - five minutes may release the chemicals. Also, the Teflon coating can begin to chip or scratch due to use and/or storage, which can lead to these chemicals being ingested.
 
@@ -16,6 +16,10 @@ These pans can be non-stick and easy to clean, but they are not as durable as ca
 
 ### 3. Helpful links
 
-<a href="https://www.goodhousekeeping.com/cooking-tools/cookware-reviews/a17426/nonstick-cookware-safety-facts/">Teflon Safety Facts</a> 
+[Teflon Safety Facts](https://www.goodhousekeeping.com/cooking-tools/cookware-reviews/a17426/nonstick-cookware-safety-facts/) 
 
 [Teflon Health Effects](https://www.healthline.com/nutrition/nonstick-cookware-safety#section5)
+
+[Teflon Off-Gassing Kills Small Animals](https://www.ewg.org/research/canaries-kitchen)
+
+
