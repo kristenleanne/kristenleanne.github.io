@@ -3,11 +3,13 @@
 ---
 
 [Pans!](/Pans)
+<br>
 <img src="images/pans.jpg?raw=true"/>
 
 ---
 
 [Deodorant!](/Deodorant)
+<br>
 <img src="images/deodorant.png?raw=true"/>
 
 ---
