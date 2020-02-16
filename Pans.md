@@ -16,3 +16,6 @@ These pans can be non-stick and easy to clean, but they are not as durable as ca
 
 ### 3. Helpful links
 
+<a href="https://www.goodhousekeeping.com/cooking-tools/cookware-reviews/a17426/nonstick-cookware-safety-facts/">Teflon Safety Facts</a> 
+
+[Teflon Health Effects](https://www.healthline.com/nutrition/nonstick-cookware-safety#section5)
