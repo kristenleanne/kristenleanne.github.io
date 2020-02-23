@@ -15,7 +15,7 @@
 
 ## [Deodorant!](/Deodorant)
 <br>
-<img src="images/deodorant.png?raw=true"/>
+[![Foo](images/deodorant.png?raw=true)](/Deodorant)
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
