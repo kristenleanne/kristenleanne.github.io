@@ -3,7 +3,7 @@
 
 [Cleaners](/Cleaners)
 <br>
-<img src="images/7B34E0BD-3C89-44E5-B91B-B947529D8FC9.jpeg"/>
+<img src="images/2214453B-A419-44DD-B136-337C67ACCCB5.jpeg"/>
 ---
 
 
