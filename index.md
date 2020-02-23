@@ -1,4 +1,4 @@
-## My Posts
+# My Posts
 
 
 ### [Cleaners](/Cleaners)
@@ -7,13 +7,13 @@
 
 ---
 
-[Pans!](/Pans)
+## [Pans!](/Pans)
 <br>
 <img src="images/pans.jpg?raw=true"/>
 
 ---
 
-[Deodorant!](/Deodorant)
+## [Deodorant!](/Deodorant)
 <br>
 <img src="images/deodorant.png?raw=true"/>
 
