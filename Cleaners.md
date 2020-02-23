@@ -12,6 +12,8 @@ This product from Young Living is amazing. I can clean my kitchen, bathrooms, mi
 
 This product is also a concentrate, and I used it for everything just like Thieves. It smells very nice, but I prefer Thieves. I think this is a great option as it is $15 on Amazon, and EWG awarded an “A” rating. 
 
+[Puracy Cleaner](https://www.amazon.com/Puracy-Natural-Purpose-Concentrate-Streak-Free/dp/B00T56KW8K)
+
 ### 3. Lysol Power & Free
 
 I was surprised that a Lysol product could have an “A” rating from EWG, but this one does, and doesn’t make me cough or make me dizzy. It also smells quite nice! It can be purchased at any grocery store for less than $10. I use this on countertops and bathrooms but not on glass. 
