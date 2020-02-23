@@ -3,13 +3,13 @@
 
 ## [Cleaners](/Cleaners)
 <br>
-<img src="images/2214453B-A419-44DD-B136-337C67ACCCB5.jpeg?raw=true"/>
+<a href="/Deodorant"> <img src="images/2214453B-A419-44DD-B136-337C67ACCCB5.jpeg?raw=true"/> </a>
 
 ---
 
 ## [Pans!](/Pans)
 <br>
-<img src="images/pans.jpg?raw=true"/>
+<a href="/Deodorant"> <img src="images/pans.jpg?raw=true"/> </a>
 
 ---
 
