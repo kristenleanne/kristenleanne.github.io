@@ -1,6 +1,6 @@
 ## Multi-Purpose Cleaners
 
-![image](images/7B34E0BD-3C89-44E5-B91B-B947529D8FC9.jpeg)
+![image](images/2214453B-A419-44DD-B136-337C67ACCCB5.jpeg)
 
 One of the first things I wanted to change in my journey to reduce toxins was my cleaners. I was tried of getting dizzy, headaches, and coughing every time I tried to clean. These are four less toxic cleaners I have been trying for the past few weeks. I want to share my thoughts, the EWG ratings, and approximate prices. 
 
