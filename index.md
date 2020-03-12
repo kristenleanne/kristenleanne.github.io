@@ -2,7 +2,7 @@
 
 ## [At Home Spa](/spa)
 <br>
-<a href="/spa"> <img src="images/C9AF3E1D-D1BF-41D3-A498-838B7E83582C.jpeg?raw=true"/> </a>
+<a href="/spa"> <img src="images/A552762C-5846-4740-A4B8-AE9284F3F214.jpeg?raw=true"/> </a>
 
 ---
 
